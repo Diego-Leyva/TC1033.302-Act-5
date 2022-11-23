@@ -1,5 +1,4 @@
-#ifndef ALUMNO_H
-#define ALUMNO_H
+#pragma once
 
 #include <iostream>
 
@@ -26,5 +25,3 @@ class Alumno {
         void imprimeAlumno();
         void cumpleanios();
 };
-
-#endif
